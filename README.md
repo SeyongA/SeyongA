@@ -1,7 +1,6 @@
 ## Hi there 👋
 <div align="center">
-
-  <img src="https://github.com/SeyongA/SeyongA/issues/1#issue-2538598283" />
+  ![title](https://github.com/user-attachments/assets/4ff1c292-5898-49e0-a7e7-a209276030b2)
   <img src="https://github-readme-stats.vercel.app/api?username=seyongA&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyongA&layout=compact" />
 </div>
