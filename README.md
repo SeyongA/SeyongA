@@ -1,8 +1,5 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-<div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
 </div>
