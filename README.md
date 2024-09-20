@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyong&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyong&layout=compact" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
